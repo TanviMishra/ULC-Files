@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: poppins, sans-serif;
+}
+h1 {
+  color: red;
+}
+#example-id {
+  color: red;
+}
+.example-class {
+  text-decoration: underline wavy blue;
+}
